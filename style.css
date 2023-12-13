@@ -1,0 +1,6 @@
+html {
+   position: absolute;
+   display: flex;
+   padding: 10px;
+   font-size: large;
+}
